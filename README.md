@@ -22,7 +22,7 @@ Tech Stack
 - Other: python-dotenv (secrets management), pandas (log data handling), colorama (CLI output)
 
 ---
-<h3>Promtp</h3>
+<h3>Prompt</h3>
 
 ![Threat hunt output](screenshots/part-1.png)
 
