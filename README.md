@@ -21,3 +21,37 @@ Tech Stack
 - Auth: Azure Identity (DefaultAzureCredential)
 - Other: python-dotenv (secrets management), pandas (log data handling), colorama (CLI output)
 
+---
+<h3>Promtp</h3>
+
+![Threat hunt output](screenshots/part-1.png)
+
+---
+<h3>Model Choice and Pricing</h3>
+
+![Threat hunt output](screenshots/part-2.png)
+
+---
+<h3>Number of Threats</h3>
+
+![Threat hunt output](screenshots/part-3.png)
+
+---
+<h3>Threat Analysis</h3>
+
+
+![Threat hunt output](screenshots/part-4-Threat-1.png)
+
+---
+
+![Threat hunt output](screenshots/part-4-Threat-2.png)
+
+---
+
+![Threat hunt output](screenshots/part-4-Threat-3.png)
+
+---
+<h3>Isolation</h3>
+
+![Threat hunt output](screenshots/part-5-isolation.png)
+
