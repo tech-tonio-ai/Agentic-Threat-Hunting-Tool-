@@ -14,10 +14,10 @@ This mirrors the orchestration, automation, and response pattern of SOAR platfor
 
 
 Tech Stack
-Language: Python
-AI: Anthropic Claude API (tool-calling / structured outputs)
-Data Source: Azure Log Analytics (Microsoft Defender for Endpoint, Microsoft Sentinel)
-Query Language: KQL (Kusto Query Language)
-Auth: Azure Identity (DefaultAzureCredential)
-Other: python-dotenv (secrets management), pandas (log data handling), colorama (CLI output)
-<h1>Python-based threat-hunting pipeline using the Claude API with tool-calling that automates log query selection, retrieval, and structured findings analysis — applying SOAR-style orchestration and automation concepts to SOC workflows</h1>
+- Language: Python
+- AI: Anthropic Claude API (tool-calling / structured outputs)
+- Data Source: Azure Log Analytics (Microsoft Defender for Endpoint, Microsoft Sentinel)
+- Query Language: KQL (Kusto Query Language)
+- Auth: Azure Identity (DefaultAzureCredential)
+- Other: python-dotenv (secrets management), pandas (log data handling), colorama (CLI output)
+
